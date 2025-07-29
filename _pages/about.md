@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Experienced Software Engineer & Technical Writer
+subtitle: (He/They)
+  Experienced Software Engineer & Technical Writer
 
 profile:
   align: right
@@ -26,23 +27,28 @@ latest_posts:
 
 **I'm a resourceful problem solver with a passion for learning and trying new things!** My journey as a software engineer began at age 12 when I created a website dedicated to my favorite Pokémon, Mew. Teaching myself **HTML, CSS, and JavaScript** ignited a love of coding, leading to various personal projects, freelance gigs, and volunteer roles in web development.
 
-Over the past decade, I've gained diverse experiences in **linguistics, writing/editing, hospitality, creative arts, international development, agile project management, and distributed systems architecture.** After formalizing my skills at Ada Developers Academy (an immersive software development training program for individuals from underrepresented backgrounds), I've designed and implemented high-traffic features in **monolith decomposition, scalable workflow automation, and microservices API development**, working with technologies like **Golang, Ruby on Rails, TypeScript, React, REST, gRPC, GraphQL, PostgreSQL, Docker, Kubernetes, and AWS**.
+Over the past decade, I've gained diverse experiences in:
 
-**I'm currently seeking both temporary and permanent roles** where I can leverage my diverse skill set, particularly in projects focused on **art, storytelling, technical writing, data equity, community agreement, AI governance, and care**. I'd love to connect and discuss potential collaborations, so feel free to reach out!
+- **technical writing and editing**
+- **translation and interpretation**
+- **creative arts**
+- **hospitality**
+- **international development**
+- **agile project management**
+- **distributed systems architecture**
 
-```
-                        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠞⢳⠀⠀⠀⠀⠀
-                        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠋⠀⢰⠎⠀⠀⠀⠀⠀
-                        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⢆⣤⡞⠃⠀⠀⠀⠀⠀⠀
-                        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⢠⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀
-                        ⠀⠀⠀⠀⢀⣀⣾⢳⠀⠀⠀⠀⢸⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                        ⣀⡤⠴⠊⠉⠀⠀⠈⠳⡀⠀⠀⠘⢎⠢⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀
-                        ⠳⣄⠀⠀⡠⡤⡀⠀⠘⣇⡀⠀⠀⠀⠉⠓⠒⠺⠭⢵⣦⡀⠀⠀⠀
-                        ⠀⢹⡆⠀⢷⡇⠁⠀⠀⣸⠇⠀⠀⠀⠀⠀⢠⢤⠀⠀⠘⢷⣆⡀⠀
-                        ⠀⠀⠘⠒⢤⡄⠖⢾⣭⣤⣄⠀⡔⢢⠀⡀⠎⣸⠀⠀⠀⠀⠹⣿⡀
-                        ⠀⠀⢀⡤⠜⠃⠀⠀⠘⠛⣿⢸⠀⡼⢠⠃⣤⡟⠀⠀⠀⠀⠀⣿⡇
-                        ⠀⠀⠸⠶⠖⢏⠀⠀⢀⡤⠤⠇⣴⠏⡾⢱⡏⠁⠀⠀⠀⠀⢠⣿⠃
-                        ⠀⠀⠀⠀⠀⠈⣇⡀⠿⠀⠀⠀⡽⣰⢶⡼⠇⠀⠀⠀⠀⣠⣿⠟⠀
-                        ⠀⠀⠀⠀⠀⠀⠈⠳⢤⣀⡶⠤⣷⣅⡀⠀⠀⠀⣀⡠⢔⠕⠁⠀⠀
-                        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠫⠿⠿⠿⠛⠋⠁⠀⠀⠀⠀
-```
+After formalizing my skills at [Ada Developers Academy](adadevelopersacademy.org), I've designed, implemented, and documented high-traffic features in monolith decomposition, scalable workflow automation, and microservices API development, working with technologies like:
+
+- **Golang**
+- **Ruby on Rails**
+- **TypeScript**
+- **React**
+- **REST**
+- **gRPC**
+- **GraphQL**
+- **PostgreSQL**
+- **Docker**
+- **Kubernetes**
+- **AWS**
+
+**I'm currently seeking both temporary and permanent roles** where I can leverage my diverse skill set, with a particular interest in **art, storytelling, data equity, community agreement, AI governance, and care**. I'd love to connect and discuss potential collaborations, so feel free to reach out!
