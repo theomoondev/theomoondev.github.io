@@ -8,8 +8,8 @@ middle_name:
 last_name: Moon
 contact_note: > # the ">" symbol means to ignore newlines until "footer_text:"
   Email is the best way to reach me. I typically respond within 24-48 hours.
-description: > 
-  Experienced software engineer and technical writer with a passion for learning and trying new things! Currently based in the Greater Seattle Area. 
+description: >
+  Experienced software engineer and technical writer with a passion for learning and trying new things! Currently based in the Greater Seattle Area.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -125,8 +125,8 @@ related_blog_posts:
 #     rss_url: https://medium.com/@theomoondev/feed
 #   - name: Example Blog
 #     posts:
-#       - url: 
-#         published_date: 
+#       - url:
+#         published_date:
 
 # -----------------------------------------------------------------------------
 # Newsletter
