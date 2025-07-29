@@ -6,7 +6,7 @@ subtitle: Experienced Software Engineer & Technical Writer
 
 profile:
   align: right
-  image: assets/img/TheoMoonHeadshot_small.png
+  image: TheoMoonHeadshot_small.png
   image_circular: true # crops the image to make it circular
   more_info: >
 
