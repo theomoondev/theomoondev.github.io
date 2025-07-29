@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Theo Moon ✦ Experienced Software Engineer & Technical Writer # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Theo
 middle_name:
 last_name: Moon
