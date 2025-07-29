@@ -3,16 +3,16 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    {% if site.title == 'blank' %}
-      <h1 class="post-title">
+    <h1 class="post-title">
+      {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
-      </h1>
-      <span>{{ site.pronouns }}</span>
-    {% else %}
-      <h1 class="post-title">{{ site.title }}</h1>
-    {% endif %}
-    <h3 class="desc">{{ page.subtitle }}</h3>
+        <span class="fs-5">{{ site.pronouns }}</span>
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </h1>
+    <h4 class="desc">{{ page.subtitle }}</h4>
   </header>
 
   <article>
