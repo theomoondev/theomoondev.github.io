@@ -36,7 +36,7 @@ Over the past decade, I've gained diverse experiences in:
 - **creative arts**
 - **hospitality**
 
-After formalizing my technical skills at [Ada Developers Academy](adadevelopersacademy.org), I've designed, implemented, and documented high-traffic features in monolith decomposition, distributed systems architecture, scalable workflow automation, and API development, working with technologies like:
+After formalizing my technical skills at [Ada Developers Academy](https://adadevelopersacademy.org), I've designed, implemented, and documented high-traffic features in monolith decomposition, distributed systems architecture, scalable workflow automation, and API development, working with technologies like:
 
 - **Golang**
 - **Ruby on Rails**
