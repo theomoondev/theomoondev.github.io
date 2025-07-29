@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Theo
 middle_name:
 last_name: Moon
-pronouns: (He/They)
+pronouns: (he/they)
 contact_note: > # the ">" symbol means to ignore newlines until "footer_text:"
   Email is the best way to reach me. I typically respond within 24-48 hours.
 description: >
