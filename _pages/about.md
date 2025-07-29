@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: (He/They)
-  Experienced Software Engineer & Technical Writer
 
 profile:
   align: right
@@ -29,26 +28,39 @@ latest_posts:
 
 Over the past decade, I've gained diverse experiences in:
 
+- **software engineering**
 - **technical writing and editing**
 - **translation and interpretation**
-- **creative arts**
-- **hospitality**
 - **international development**
 - **agile project management**
-- **distributed systems architecture**
+- **creative arts**
+- **hospitality**
 
-After formalizing my skills at [Ada Developers Academy](adadevelopersacademy.org), I've designed, implemented, and documented high-traffic features in monolith decomposition, scalable workflow automation, and microservices API development, working with technologies like:
+After formalizing my technical skills at [Ada Developers Academy](adadevelopersacademy.org), I've designed, implemented, and documented high-traffic features in monolith decomposition, distributed systems architecture, scalable workflow automation, and API development, working with technologies like:
 
 - **Golang**
 - **Ruby on Rails**
-- **TypeScript**
-- **React**
-- **REST**
-- **gRPC**
-- **GraphQL**
-- **PostgreSQL**
-- **Docker**
-- **Kubernetes**
+- **Javascript / TypeScript / React**
+- **REST / gRPC / GraphQL**
+- **SQL / PostgreSQL**
+- **Docker / Kubernetes**
 - **AWS**
 
 **I'm currently seeking both temporary and permanent roles** where I can leverage my diverse skill set, with a particular interest in **art, storytelling, data equity, community agreement, AI governance, and care**. I'd love to connect and discuss potential collaborations, so feel free to reach out!
+
+```
+                                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠞⢳⠀⠀⠀⠀⠀
+                                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠋⠀⢰⠎⠀⠀⠀⠀⠀
+                                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⢆⣤⡞⠃⠀⠀⠀⠀⠀⠀
+                                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⢠⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀
+                                  ⠀⠀⠀⠀⢀⣀⣾⢳⠀⠀⠀⠀⢸⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                  ⣀⡤⠴⠊⠉⠀⠀⠈⠳⡀⠀⠀⠘⢎⠢⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀
+                                  ⠳⣄⠀⠀⡠⡤⡀⠀⠘⣇⡀⠀⠀⠀⠉⠓⠒⠺⠭⢵⣦⡀⠀⠀⠀
+                                  ⠀⢹⡆⠀⢷⡇⠁⠀⠀⣸⠇⠀⠀⠀⠀⠀⢠⢤⠀⠀⠘⢷⣆⡀⠀
+                                  ⠀⠀⠘⠒⢤⡄⠖⢾⣭⣤⣄⠀⡔⢢⠀⡀⠎⣸⠀⠀⠀⠀⠹⣿⡀
+                                  ⠀⠀⢀⡤⠜⠃⠀⠀⠘⠛⣿⢸⠀⡼⢠⠃⣤⡟⠀⠀⠀⠀⠀⣿⡇
+                                  ⠀⠀⠸⠶⠖⢏⠀⠀⢀⡤⠤⠇⣴⠏⡾⢱⡏⠁⠀⠀⠀⠀⢠⣿⠃
+                                  ⠀⠀⠀⠀⠀⠈⣇⡀⠿⠀⠀⠀⡽⣰⢶⡼⠇⠀⠀⠀⠀⣠⣿⠟⠀
+                                  ⠀⠀⠀⠀⠀⠀⠈⠳⢤⣀⡶⠤⣷⣅⡀⠀⠀⠀⣀⡠⢔⠕⠁⠀⠀
+                                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠫⠿⠿⠿⠛⠋⠁⠀⠀⠀⠀
+```
