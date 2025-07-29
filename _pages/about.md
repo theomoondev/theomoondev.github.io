@@ -28,23 +28,23 @@ latest_posts:
 
 Over the past decade, I've gained diverse experiences in:
 
-- **software engineering**
-- **technical writing and editing**
-- **translation and interpretation**
-- **international development**
-- **agile project management**
-- **creative arts**
-- **hospitality**
+- _software engineering_
+- _technical writing and editing_
+- _translation and interpretation_
+- _international development_
+- _agile project management_
+- _creative arts_
+- _hospitality_
 
 After formalizing my technical skills at [Ada Developers Academy](https://adadevelopersacademy.org), I've designed, implemented, and documented high-traffic features in monolith decomposition, distributed systems architecture, scalable workflow automation, and API development, working with technologies like:
 
-- **Golang**
-- **Ruby on Rails**
-- **Javascript / TypeScript / React**
-- **REST / gRPC / GraphQL**
-- **SQL / PostgreSQL**
-- **Docker / Kubernetes**
-- **AWS**
+- _Golang_
+- _Ruby on Rails_
+- _Javascript / TypeScript / React_
+- _REST / gRPC / GraphQL_
+- _SQL / PostgreSQL_
+- _Docker / Kubernetes_
+- _AWS_
 
 **I'm currently seeking both temporary and permanent roles** where I can leverage my diverse skill set, with a particular interest in **art, storytelling, data equity, community agreement, AI governance, and care**. I'd love to connect and discuss potential collaborations, so feel free to reach out!
 
