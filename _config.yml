@@ -2,13 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Theo Moon | Experienced Software Engineer & Technical Writer # the website title (if blank, full name will be used instead)
+title: Theo Moon ✦ Experienced Software Engineer & Technical Writer # the website title (if blank, full name will be used instead)
 first_name: Theo
-middle_name: 
+middle_name:
 last_name: Moon
 contact_note: > # the ">" symbol means to ignore newlines until "footer_text:"
   Email is the best way to reach me. I typically respond within 24-48 hours.
-description: 
+description: > 
+  Experienced software engineer and technical writer with a passion for learning and trying new things! Currently based in the Greater Seattle Area. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -49,7 +50,7 @@ footer_fixed: true
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -84,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: # blog_name will be displayed in your blog page
-blog_description: 
+blog_name: theomoondev # blog_name will be displayed in your blog page
+blog_description: Theo Moon ✦ Experienced Software Engineer & Technical Writer
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -98,34 +99,34 @@ related_blog_posts:
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
-# Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
-giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
-  category_id: # leave empty or specify your category_id (see https://giscus.app/)
-  mapping: title # identify discussions by post title
-  strict: 1 # use strict identification mode
-  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
+# # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
+# giscus:
+#   repo: # <your-github-user-name>/<your-github-repo-name>
+#   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+#   category: Comments # name of the category under which discussions will be created
+#   category_id: # leave empty or specify your category_id (see https://giscus.app/)
+#   mapping: title # identify discussions by post title
+#   strict: 1 # use strict identification mode
+#   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
+#   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+#   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
+#   emit_metadata: 0
+#   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: # put your disqus shortname
+# disqus_shortname: theomoondev # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: 
-    rss_url: 
-  - name: 
-    posts:
-      - url: 
-        published_date: 
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@theomoondev/feed
+#   - name: Example Blog
+#     posts:
+#       - url: 
+#         published_date: 
 
 # -----------------------------------------------------------------------------
 # Newsletter
