@@ -2,14 +2,14 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Please note that the majority of my contributions are made under private, company-specific accounts and will therefore not appear in my personal GitHub account nor the stats shared below.
+description: Please note that the majority of my coding contributions are made under private, company-specific accounts and will therefore not appear in my personal GitHub account shared below.
 nav: true
 nav_order: 4
 ---
 
 {% if site.data.repositories.github_users %}
 
-## GitHub users
+## GitHub user
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
