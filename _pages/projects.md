@@ -1,8 +1,8 @@
 ---
 layout: page
-title: documentation
-permalink: /documentation/
-description: A growing collection of technical documentation samples. Please note that all sensitive or proprietary information has been redacted.
+title: writing samples
+permalink: /writing-samples/
+description: A growing collection of technical writing samples. Please note that all sensitive or proprietary information has been redacted.
 nav: true
 nav_order: 3
 display_categories: [software, gardening]

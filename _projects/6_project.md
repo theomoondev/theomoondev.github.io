@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A Practical Guide for Gardening (Sample)
-description: a project with no image
+title: I KILL PLANTS: But I Want to Grow a Vegetable Garden
+description: A practical guide for growing your own vegetable garden
 img:
 importance: 1
 category: gardening
