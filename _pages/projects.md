@@ -1,7 +1,7 @@
 ---
 layout: page
-title: writing samples
-permalink: /writing-samples/
+title: technical writing
+permalink: /technial-writing/
 description: A growing collection of technical writing samples. Please note that all sensitive or proprietary information has been redacted.
 nav: true
 nav_order: 3

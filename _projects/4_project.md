@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Service Feature Runbooks (Sample)
-description: Two runbooks describing E2E testing and manual creation with video walkthroughs for an undisclosed service feature
+title: Service Feature Runbooks
+description: Sample of two runbooks describing E2E testing and manual creation with video walkthroughs for an undisclosed service feature
 img:
 importance: 4
 category: software
