@@ -577,6 +577,9 @@ footer.sticky-bottom {
   }
 }
 
+.post-header > h1 { display: inline-block; }
+.post-header span { margin-left: 10px; }
+
 .post-title {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
