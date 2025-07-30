@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-technical-writing",
           title: "technical writing",
-          description: "A growing collection of technical writing samples. Please note that all sensitive or proprietary information has been redacted.",
+          description: "A growing collection of technical writing samples. Please note that all potentially sensitive or proprietary information, including hyperlinks, have been redacted.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/technial-writing/";
@@ -40,8 +40,8 @@ ninja.data = [{
           description: "Sample of a technical strategy for decomposing an attribute from an undisclosed object model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-object-creation-procedures",
-          title: 'Object Creation Procedures',
+            },},{id: "projects-instance-creation-procedures",
+          title: 'Instance Creation Procedures',
           description: "Sample of the systematic steps and procedures involved in creating a new instance of an object within an undisclosed service",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
