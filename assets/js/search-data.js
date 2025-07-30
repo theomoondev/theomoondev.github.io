@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Please note that the majority of my contributions are made under private, company-specific accounts and will therefore not appear in my personal GitHub account nor the stats shared below.",
+          description: "Please note that the majority of my coding contributions are made under private, company-specific accounts and will therefore not appear in my personal GitHub account shared below.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
