@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Theo Moon",
-    "label": "Software Engineer & Technical Writer",
+    "title": "Software Engineer & Technical Writer",
     "image": "",
     "email": "theo.y.s.moon (at) gmail (dot) com",
     "phone": "",
@@ -30,7 +30,6 @@
   "work": [
     {
       "name": "Neverdark Development LLC",
-      "location": "Greater Seattle Area (Hybrid)",
       "position": "Freelance Creative Technologist",
       "url": "https://neverdark.dev",
       "startDate": "2023-10-01",
@@ -44,7 +43,6 @@
     },
     {
       "name": "Outreach",
-      "location": "Seattle, WA (Hybrid)",
       "position": "Senior Software Engineer",
       "url": "https://outreach.io",
       "startDate": "2021-11-01",
@@ -57,7 +55,6 @@
     },
     {
       "name": "Outreach",
-      "location": "Seattle, WA (Remote)",
       "position": "Software Engineer",
       "url": "https://outreach.io",
       "startDate": "2021-02-01",
@@ -70,7 +67,6 @@
     },
     {
       "name": "Outreach",
-      "location": "Seattle, WA (Remote)",
       "position": "Software Engineer Intern",
       "url": "https://outreach.io",
       "startDate": "2021-02-01",
@@ -83,7 +79,6 @@
     },
     {
       "name": "Scribendi Inc.",
-      "location": "Chatham, Ontario, Canada (Remote)",
       "position": "Freelance Editor/Proofreader",
       "url": "https://scribendi.com",
       "startDate": "2016-04-01",
@@ -98,10 +93,9 @@
   "education": [
     {
       "institution": "Ada Developers Academy",
-      "location": "Seattle, WA",
       "url": "https://adadevelopersacademy.org",
-      "area": "Full-Stack Software Development",
-      "studyType": "Apprenticeship Program",
+      "area": "Ada Developers Academy is a year-long, immersive software development training program for individuals from underrepresented backgrounds.",
+      "studyType": "Certificate in Full-Stack Web Development",
       "startDate": "2020-02-01",
       "endDate": "2021-01-31",
       "courses": [
@@ -111,10 +105,9 @@
     },
     {
       "institution": "National Taiwan University, Chinese Language Division",
-      "location": "Taipei, Taiwan",
       "url": "https://cld.ntu.edu.tw/",
-      "area": "Mandarin Chinese Language & Culture",
-      "studyType": "Scholarship Program",
+      "area": "Chinese Language & Literature",
+      "studyType": "Huayu Enrichment Scholarship",
       "startDate": "2016-08-01",
       "endDate": "2017-07-01",
       "courses": [
@@ -123,7 +116,6 @@
     },
     {
       "institution": "University of Oregon",
-      "location": "Eugene, OR",
       "url": "https://uoregon.edu",
       "area": "Chinese Language & Literature",
       "studyType": "Bachelor of Arts",
@@ -131,8 +123,8 @@
       "endDate": "2011-12-01",
       "courses": [
         "Graduated magna cum laude (GPA: 3.9/4.0).",
-        "Completed coursework in Classical Chinese, Modern Chinese Literature, Chinese Linguistics, & East Asian History.",
-        "Studied abroad at National Taiwan University in Taipei, Taiwan (Fall 2010 & Spring 2011)."
+        "Completed coursework in Mandarin Chinese, Classical & Modern Chinese Literature, Chinese Linguistics, & East Asian History.",
+        "Studied abroad at National Taiwan University in Taipei, Taiwan (2010-2011)."
       ]
     }
   ],
@@ -207,13 +199,13 @@
       "name": "Language and Editing",
       "level": "Proficient",
       "icon": "fa-solid fa-book",
-      "keywords": ["Editing", "Proofreading", "Technical Writing", "ESL Support", "Content Improvement"]
+      "keywords": ["Editing", "Proofreading", "Technical Writing", "CHN-ENG Translation", "ESL Support", "Content Improvement"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker",
+      "fluency": "Native proficiency",
       "icon": ""
     },
     {
