@@ -7,12 +7,13 @@ layout: default
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
-        <span class="font-size-sm">{{ site.pronouns }}</span>
+        <span class="font-size-base">{{ site.pronouns }}</span>
       {% else %}
         {{ site.title }}
       {% endif %}
     </h1>
     <h4 class="desc">{{ page.subtitle }}</h4>
+    <br>
   </header>
 
   <article>
