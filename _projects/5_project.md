@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TaskPie GitHub README
-description: a project with a background image
+description: A GitHub README featuring a recorded demo, installation guide, dependencies, and Trello board
 img: assets/img/1.jpg
 importance: 5
 category: software

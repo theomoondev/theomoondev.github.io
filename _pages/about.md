@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My journey as a software engineer began at age 12 when I created a website dedicated to my favorite Pokémon, Mew. Teaching myself **HTML, CSS, and JavaScript** ignited a love of coding, leading to various personal projects, freelance gigs, and volunteer roles in web development.
+My journey as a software engineer began at age 12 when I created a website dedicated to my favorite Pokémon, Mew! Teaching myself **HTML, CSS, and JavaScript** ignited a love of coding, leading to various personal projects, freelance gigs, and volunteer roles in web development.
 
 Over the past decade, I've gained diverse experiences in:
 
