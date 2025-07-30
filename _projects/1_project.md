@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Model Attribute Migration Strategy (Sample)
-description: with background image
+title: Attribute Migration Strategy (Sample)
+description: A technical strategy for migrating an undisclosed model attribute from one service to another 
 img: assets/img/12.jpg
 importance: 1
 category: software

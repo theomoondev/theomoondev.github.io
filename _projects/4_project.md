@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Service Feature Runbooks (Sample)
-description: another without an image
+description: Two runbooks describing E2E testing and manual creation with video walkthroughs for an undisclosed service feature
 img:
 importance: 4
 category: software

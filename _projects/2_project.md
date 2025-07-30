@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Service Feature Decomposition Strategy (Sample)
-description: a project with a background image and giscus comments
+title: Feature Decomposition Strategy (Sample)
+description: A technical strategy for decomposing an undisclosed feature from a service
 img: assets/img/3.jpg
 importance: 2
 category: software
