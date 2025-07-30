@@ -30,34 +30,34 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "projects-model-attribute-migration-strategy-sample",
-          title: 'Model Attribute Migration Strategy (Sample)',
-          description: "with background image",
+        },{id: "projects-attribute-migration-strategy-sample",
+          title: 'Attribute Migration Strategy (Sample)',
+          description: "A technical strategy for migrating an undisclosed model attribute from one service to another",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-service-feature-decomposition-strategy-sample",
-          title: 'Service Feature Decomposition Strategy (Sample)',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-feature-decomposition-strategy-sample",
+          title: 'Feature Decomposition Strategy (Sample)',
+          description: "A technical strategy for decomposing an undisclosed feature from a service",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-service-feature-description-sample",
           title: 'Service Feature Description (Sample)',
-          description: "a project that redirects to another website",
+          description: "A technical description of an undisclosed service feature",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-service-feature-runbooks-sample",
           title: 'Service Feature Runbooks (Sample)',
-          description: "another without an image",
+          description: "Two runbooks describing E2E testing and manual creation with video walkthroughs for an undisclosed service feature",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-taskpie-github-readme",
           title: 'TaskPie GitHub README',
-          description: "a project with a background image",
+          description: "A GitHub README featuring a recorded demo, installation guide, dependencies, and Trello board",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-i-kill-plants-but-i-want-to-grow-a-vegetable-garden-sample",
+          title: 'I KILL PLANTS But I Want to Grow a Vegetable Garden (Sample)',
+          description: "A detailed, practical guide for growing your own vegetable garden",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
