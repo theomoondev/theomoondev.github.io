@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
+title: A Practical Guide for Gardening (Sample)
 description: a project with no image
 img:
-importance: 4
-category: fun
+importance: 1
+category: gardening
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: documentation
+permalink: /documentation/
+description: A growing collection of technical documentation samples. Please note that all sensitive or proprietary information has been redacted.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [software, gardening]
 horizontal: false
 ---
 
