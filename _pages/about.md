@@ -24,19 +24,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My journey as a software engineer began at age 12 when I created a website dedicated to my favorite Pokémon, Mew! Teaching myself **HTML, CSS, and JavaScript** ignited a love of coding, leading to various personal projects, freelance gigs, and volunteer roles in web development.
+My journey as a software engineer began at age 12 when I created a website dedicated to my favorite Pokémon, Mew! Teaching myself HTML, CSS, and JavaScript ignited a love of coding, leading to various personal projects, freelance gigs, and volunteer roles in web development.
 
-Over the past decade, I've gained diverse experiences in:
+Over two decades later, my career has expanded to include rich experiences in:
 
-- _software engineering_
-- _technical writing and editing_
-- _translation and interpretation_
-- _international development_
-- _agile project management_
-- _creative arts_
-- _hospitality_
+- _Software engineering_
+- _Technical writing and editing_
+- _Translation and interpretation_
+- _International development_
+- _Agile project management_
+- _Creative arts_
+- _Hospitality_
 
-After formalizing my technical skills at [Ada Developers Academy](https://adadevelopersacademy.org), I've designed, implemented, and documented high-traffic features in monolith decomposition, distributed systems architecture, scalable workflow automation, and API development, working with technologies like:
+After formalizing my technical skills at [Ada Developers Academy](https://adadevelopersacademy.org) from 2020-2021, I began designing, implementing, testing, and documenting high-traffic features in monolith decomposition, distributed systems architecture, scalable workflow automation, and API development, working with technologies like:
 
 - _Golang_
 - _Ruby on Rails_
@@ -48,4 +48,4 @@ After formalizing my technical skills at [Ada Developers Academy](https://adadev
 
 I'm currently seeking both temporary and permanent roles where I can leverage my diverse skill set, with a particular interest in **art, storytelling, data equity, community agreement, AI governance, and care**.
 
-Got an idea for a potential collaboration? Feel free to reach out!
+Got an idea for a potential collaboration? Let's connect!
