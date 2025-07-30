@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Feature Decomposition Strategy (Sample)
-description: A technical strategy for decomposing an undisclosed feature from a service
+title: Feature Decomposition Strategy
+description: Sample of a technical strategy for decomposing an undisclosed feature from a service
 img: assets/img/3.jpg
 importance: 2
 category: software
