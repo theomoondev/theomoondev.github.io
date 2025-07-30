@@ -1,6 +1,7 @@
 {
   "basics": {
     "name": "Theo Moon",
+    "pronouns": "he/him, they/them",
     "title": "Software Engineer & Technical Writer",
     "image": "",
     "email": "theo.y.s.moon (at) gmail (dot) com",
@@ -92,7 +93,7 @@
   ],
   "education": [
     {
-      "institution": "Ada Developers Academy",
+      "institution": "Ada Developers Academy, Seattle, WA",
       "url": "https://adadevelopersacademy.org",
       "area": "Ada Developers Academy is a year-long, immersive software development training program for individuals from underrepresented backgrounds.",
       "studyType": "Certificate in Full-Stack Web Development",
@@ -104,7 +105,7 @@
       ]
     },
     {
-      "institution": "National Taiwan University, Chinese Language Division",
+      "institution": "National Taiwan University, Chinese Language Division, Taipei, Taiwan",
       "url": "https://cld.ntu.edu.tw/",
       "area": "Chinese Language & Literature",
       "studyType": "Huayu Enrichment Scholarship",
@@ -115,7 +116,7 @@
       ]
     },
     {
-      "institution": "University of Oregon",
+      "institution": "University of Oregon, Eugene, OR",
       "url": "https://uoregon.edu",
       "area": "Chinese Language & Literature",
       "studyType": "Bachelor of Arts",
