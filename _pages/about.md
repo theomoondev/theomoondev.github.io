@@ -46,7 +46,7 @@ After formalizing my technical skills at [Ada Developers Academy](https://adadev
 - _Docker / Kubernetes_
 - _AWS_
 
-I'm currently seeking both temporary and permanent roles where I can leverage my diverse skill set, with a particular interest in **art, storytelling, data equity, community agreement, AI governance, and care**. 
+I'm currently seeking both temporary and permanent roles where I can leverage my diverse skill set, with a particular interest in **art, storytelling, data equity, community agreement, AI governance, and care**.
 
 Got an idea for a potential collaboration? Feel free to reach out!
 
