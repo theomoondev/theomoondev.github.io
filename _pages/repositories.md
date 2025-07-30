@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Please note that the majority of my contributions were made under private, client-specific accounts and will therefore not appear in my personal GitHub account nor the statistics shared below.
+description: Please note that the majority of my contributions are made under private, company-specific accounts and will therefore not appear in my personal GitHub account nor stats.
 nav: true
 nav_order: 4
 ---
