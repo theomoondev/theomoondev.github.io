@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "nav-documentation",
-          title: "documentation",
-          description: "A growing collection of technical documentation samples. Please note that all sensitive or proprietary information has been redacted.",
+        },{id: "nav-writing-samples",
+          title: "writing samples",
+          description: "A growing collection of technical writing samples. Please note that all sensitive or proprietary information has been redacted.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/documentation/";
+            window.location.href = "/writing-samples/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -50,14 +50,14 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-taskpie-readme",
-          title: 'TaskPie README',
+            },},{id: "projects-taskpie-github-readme",
+          title: 'TaskPie GitHub README',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-a-practical-guide-for-gardening-sample",
-          title: 'A Practical Guide for Gardening (Sample)',
-          description: "a project with no image",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
