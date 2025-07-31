@@ -7,4 +7,4 @@ category: software
 related_publications: false
 ---
 
-_Note: The following document is provided as a sample only. All potentially sensitive or proprietary information, including hyperlinks, have been redacted._
+<iframe src="https://drive.google.com/file/d/1yueUXQlMe0gndREXCJdJCjKXEPRWTIMp/preview" width="640" height="480" allow="autoplay"></iframe>

@@ -2,7 +2,7 @@
 layout: page
 title: technical writing
 permalink: /technial-writing/
-description: A growing collection of technical writing samples. Please note that all potentially sensitive or proprietary information, including hyperlinks, have been redacted.
+description: A growing collection of technical writing samples.
 nav: true
 nav_order: 3
 display_categories: [software, gardening]
