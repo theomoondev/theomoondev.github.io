@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-technical-writing",
           title: "technical writing",
-          description: "A growing collection of technical writing samples. Please note that all potentially sensitive or proprietary information, including hyperlinks, have been redacted.",
+          description: "A growing collection of technical writing samples.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/technial-writing/";
@@ -35,14 +35,9 @@ ninja.data = [{
           description: "Sample of a technical strategy for migrating a feature from an undisclosed legacy service",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-model-attribute-decomposition-strategy",
-          title: 'Model Attribute Decomposition Strategy',
-          description: "Sample of a technical strategy for decomposing an attribute from an undisclosed object model",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-instance-creation-procedures",
           title: 'Instance Creation Procedures',
-          description: "Sample of the systematic steps and procedures involved in creating a new instance of an object within an undisclosed service",
+          description: "Sample of the systematic steps and procedures involved in creating a new instance of an object within a generalized service",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-service-runbooks",
@@ -60,21 +55,6 @@ ninja.data = [{
           description: "Sample of a detailed, practical guide for growing your own vegetable garden",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
