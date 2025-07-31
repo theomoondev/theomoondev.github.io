@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "projects-service-feature-migration-strategy",
           title: 'Service Feature Migration Strategy',
-          description: "Sample of a technical strategy for migrating a feature from an undisclosed legacy service",
+          description: "Sample of a technical strategy for migrating a feature from a generalized legacy service",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-instance-creation-procedures",
