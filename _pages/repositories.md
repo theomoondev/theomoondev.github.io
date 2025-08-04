@@ -7,7 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-_Note: The majority of my coding contributions are made under private, client-specific accounts and will therefore not appear in my personal account shared below._
+_Note: The majority of my coding contributions are made under private, client-specific accounts and therefore not reflected in my personal account shared below._
+
+{% if site.data.repositories.github_users %}
 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
