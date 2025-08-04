@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-technical-writing",
           title: "technical writing",
-          description: "A growing collection of technical writing samples. Please note that the following documents are provided solely as samples for illustrative purposes. All potentially sensitive or proprietary information, including specific names, hyperlinks, and identifiable details, have been generalized or redacted to ensure compliance with confidentiality obligations. These documents do not represent actual company processes or information.",
+          description: "A growing collection of technical writing samples authored by Theo Moon. Please note that all potentially sensitive or proprietary information has been generalized or redacted to ensure compliance with confidentiality obligations. These documents do not represent actual company processes or information.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/technical-writing/";
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "A collection of GitHub trophies and repositories. Note:\ The majority of my coding contributions are made under private, client-specific accounts and therefore not reflected in my personal account shared below.",
+          description: "A growing collection of GitHub stats and repositories authored by Theo Moon. Please note that the majority of my coding contributions are made under private, client-specific accounts and therefore not reflected in the personal account shared below.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
