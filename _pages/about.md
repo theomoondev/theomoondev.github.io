@@ -47,6 +47,6 @@ After formalizing my technical skills at [Ada Developers Academy](https://adadev
 - _Docker / Kubernetes_
 - _AWS_
 
-I'm currently seeking contract or permanent roles where I can leverage my diverse skill set, with a particular interest in **art, storytelling, data equity, community agreement, AI governance, and care**.
+I thrive in projects that blend diverse disciplines to solve real-world problems, particularly those at the intersection of art+tech, storytelling, data equity, AI governance, and/or community care.
 
 Got an idea for a potential collaboration? Let's connect!

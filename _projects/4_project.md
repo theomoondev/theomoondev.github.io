@@ -6,4 +6,4 @@ importance: 4
 category: software
 ---
 
-<iframe src="https://drive.google.com/file/d/1Vz1jaxalv9dgRPRjc59WHyGPfuHuETET/preview" width="100%" height="100%" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1Vz1jaxalv9dgRPRjc59WHyGPfuHuETET/preview" width="100%" height="480px" allow="autoplay"></iframe>
