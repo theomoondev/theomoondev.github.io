@@ -2,14 +2,22 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: A growing collection of GitHub stats and repositories I've created.
+description: A collection of GitHub trophies and repositories. Note:\ The majority of my coding contributions are made under private, client-specific accounts and therefore not reflected in my personal account shared below.
 nav: true
 nav_order: 4
 ---
 
-_Note: The majority of my coding contributions are made under private, client-specific accounts and therefore not reflected in my personal account shared below._
-
 {% if site.data.repositories.github_users %}
+
+## GitHub User
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for user in site.data.repositories.github_users %}
+    {% include repository/repo_user.liquid username=user %}
+  {% endfor %}
+</div>
+
+---
 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
