@@ -4,9 +4,3 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - theomoondev/taskpie
-  - theomoondev/betsy
-  - theomoondev/media-ranker
-  - theomoondev/inspiration-board
-  - theomoondev/todo-cli
-  - theomoondev/sketches
