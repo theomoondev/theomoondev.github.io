@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Experienced Software Engineer & Technical Writer
+subtitle: Full-Stack Software Engineer & Technical Writer
 
 profile:
   align: right
@@ -28,11 +28,11 @@ My journey as a software engineer began at age 12 when I created a website dedic
 
 Over the past two decades, my career has been enriched by experiences in:
 
-- _Software engineering_
+- _Full-stack software development_
 - _Technical writing and editing_
 - _Agile project management_
 - _Translation and interpretation_
-- _International development_
+- _International relations_
 - _Academic research and analysis_
 - _Creative expression and performance_
 - _Hospitality_

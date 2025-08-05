@@ -8,9 +8,9 @@ middle_name:
 last_name: Moon
 pronouns: (he/they)
 contact_note: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Email is the best way to reach me. I typically respond within 24-48 hours.
+  Email is the best way to reach me, and I typically respond within 24-48 hours.
 description: >
-  Experienced software engineer and technical writer with a passion for learning and trying new things! Currently based in the Greater Seattle Area.
+  Full-Stack Software Engineer with 5+ years of experience in platform engineering and API development, and 9+ years of experience in technical writing for professionals and laypeople alike. Always learning and growing, I thrive in projects that blend diverse disciplines to solve real-world problems, particularly those at the intersection of art+tech, storytelling, data equity, AI governance, and/or community care.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -20,7 +20,7 @@ icon: 🌙 # the emoji used as the favicon (alternatively, provide image name in
 
 url: https://theomoondev.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -86,14 +86,14 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: theomoondev # blog_name will be displayed in your blog page
-blog_description: Theo Moon ✦ Experienced Software Engineer & Technical Writer
+blog_name: Theo Moon ✦ Full-Stack Software Engineer & Technical Writer # blog_name will be displayed in your blog page
+blog_description: Full-Stack Software Engineer with 5+ years of experience in platform engineering and API development, and 9+ years of experience in technical writing for professionals and laypeople alike. Always learning and growing, I thrive in projects that blend diverse disciplines to solve real-world problems, particularly those at the intersection of art+tech, storytelling, data equity, AI governance, and/or community care.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: true
