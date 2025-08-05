@@ -6,14 +6,14 @@ importance: 3
 category: software
 ---
 
-<iframe src="https://drive.google.com/file/d/1PtO5RMumOM89Pn9pM9SxrOPn30oTAPGj/preview" width="100%" height="1024px" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1PtO5RMumOM89Pn9pM9SxrOPn30oTAPGj/preview" width="100%" height="90vh" allow="autoplay"></iframe>
 
 _Note: If you cannot view the embedded document above, here is the [direct link](https://drive.google.com/file/d/1PtO5RMumOM89Pn9pM9SxrOPn30oTAPGj/preview)._
 
-<iframe src="https://drive.google.com/file/d/1-2kRljEUsJacJBbt6Zi4sYlJQT0RfwQ5/preview" width="100%" height="1080px" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1-2kRljEUsJacJBbt6Zi4sYlJQT0RfwQ5/preview" width="100%" height="90vh" allow="autoplay"></iframe>
 
 _Note: If you cannot view the embedded document above, here is the [direct link](https://drive.google.com/file/d/1-2kRljEUsJacJBbt6Zi4sYlJQT0RfwQ5/preview)._
 
-<iframe src="https://drive.google.com/file/d/169jvN1UwgKqFHMoFpAHdb0VMChbQ02u0/preview" width="100%" height="1080px" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/169jvN1UwgKqFHMoFpAHdb0VMChbQ02u0/preview" width="100%" height="90vh" allow="autoplay"></iframe>
 
 _Note: If you cannot view the embedded document above, here is the [direct link](https://drive.google.com/file/d/169jvN1UwgKqFHMoFpAHdb0VMChbQ02u0/preview)._
