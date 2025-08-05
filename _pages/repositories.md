@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: A growing collection of GitHub stats and repositories authored by Theo Moon. Please note that the majority of my coding contributions are made under private, client-specific accounts and therefore not reflected in the personal account shared below.
+description: Please note that the majority of my coding contributions are made under private, client-specific accounts and therefore not reflected in the personal account shared below.
 nav: true
 nav_order: 4
 ---
