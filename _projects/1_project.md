@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TravelAdvisory API
-description: Sample of REST API documentation created using an OpenAPI specification in YAML format. The interactive HTML view was generated using Redocly.
+description: Sample of a REST API reference written as an OpenAPI specification in YAML format, presented as an interactive HTML view using Redocly
 importance: 1
 category: software
 ---

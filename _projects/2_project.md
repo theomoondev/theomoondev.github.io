@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Service Feature Migration Strategy
-description: Sample of a technical strategy for migrating a feature from a generalized legacy service
+title: Legacy API Migration Strategy
+description: Sample of a developer-facing technical strategy for migrating a collection of API endpoints from a generalized legacy service
 importance: 2
 category: software
-related_publications: false
 ---
 
 Coming soon...
