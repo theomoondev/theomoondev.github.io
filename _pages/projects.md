@@ -4,7 +4,7 @@ title: technical writing
 permalink: /technical-writing/
 description: Please note that all potentially sensitive or proprietary information has been generalized or redacted to ensure compliance with confidentiality obligations. These documents do not represent actual company processes or information.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [software, gardening]
 horizontal: false
 ---

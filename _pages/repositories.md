@@ -2,9 +2,9 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Please note that the majority of my coding contributions are made under private, client-specific accounts and therefore not reflected in the personal account shared below.
+description: Please note that the majority of my coding contributions are made under private, client-specific accounts and therefore not reflected in the personal account details shared below.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 {% if site.data.repositories.github_users %}
