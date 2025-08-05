@@ -30,24 +30,24 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "projects-traveladvisory-api",
-          title: 'TravelAdvisory API',
-          description: "Sample of a REST API reference written as an OpenAPI specification in YAML format, presented as an interactive HTML view using Redocly",
+        },{id: "projects-traveladvisory-api-reference",
+          title: 'TravelAdvisory API Reference',
+          description: "Sample of a REST API reference written as an OpenAPI specification in YAML format, presented in an interactive HTML view using Redocly",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-legacy-api-migration-strategy",
           title: 'Legacy API Migration Strategy',
-          description: "Sample of a developer-facing technical strategy for migrating a collection of API endpoints from a generalized legacy service",
+          description: "Sample of a developer-facing document proposing a technical strategy for migrating a collection of API endpoints from a generalized legacy service to a microservice architecture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-instance-creation-overview-amp-runbooks",
           title: 'Instance Creation Overview &amp;amp; Runbooks',
-          description: "Sample of a developer-facing document that provides an overview on creating a new object instance within a generalized service, along with two service runbooks describing E2E testing and manual creation procedures",
+          description: "Sample of developer-facing documents providing an overview of object instance creation within a generalized microservice architecture, including two service runbooks describing E2E testing and manual creation procedures",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-taskpie-github-readme",
           title: 'TaskPie GitHub README',
-          description: "A GitHub README featuring a recorded demo, user stories, installation guide, dependencies, and Trello board",
+          description: "A GitHub README featuring a recorded demo, user stories, installation guide, dependencies, and Trello board for a time management and task planning app for Android and iOS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-i-kill-plants-but-i-want-to-grow-a-vegetable-garden",
