@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instance Creation Overview & Runbooks
-description: Sample of a developer-facing document that provides an overview on creating a new object instance within a generalized service, along with two service runbooks describing E2E testing and manual creation procedures
+description: Sample of developer-facing documents providing an overview of object instance creation within a generalized microservice architecture, including two service runbooks describing E2E testing and manual creation procedures
 importance: 3
 category: software
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TravelAdvisory API
-description: Sample of a REST API reference written as an OpenAPI specification in YAML format, presented as an interactive HTML view using Redocly
+title: TravelAdvisory API Reference
+description: Sample of a REST API reference written as an OpenAPI specification in YAML format, presented in an interactive HTML view using Redocly
 importance: 1
 category: software
 ---
