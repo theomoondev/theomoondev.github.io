@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "projects-traveladvisory-api-reference",
           title: 'TravelAdvisory API Reference',
-          description: "Sample of a REST API reference written as an OpenAPI specification in YAML format, presented in an interactive HTML view using Redocly",
+          description: "Sample of a REST API reference originally written as an OpenAPI YAML specification. Here, it is presented in an interactive HTML view using Redocly, with an option to download the specification as JSON",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-legacy-api-migration-strategy",
@@ -74,7 +74,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/theoleemoon", "_blank");
+          window.open("https://www.linkedin.com/in/theomoondev", "_blank");
         },
       },{
       id: 'light-theme',
