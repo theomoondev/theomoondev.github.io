@@ -7,6 +7,6 @@ importance: 1
 category: gardening
 ---
 
-<iframe src="https://drive.google.com/file/d/1QrM-yMXaayuW8VzqmUOS420FHCNnDxej/preview" width="100%" height="1080px" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1QrM-yMXaayuW8VzqmUOS420FHCNnDxej/preview" width="100%" height="1024px" allow="autoplay"></iframe>
 
 _Note: If you cannot view the embedded document above, here is the [direct link](https://drive.google.com/file/d/1QrM-yMXaayuW8VzqmUOS420FHCNnDxej/preview)._
