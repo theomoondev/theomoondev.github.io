@@ -1,5 +1,5 @@
 <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
-  {% assign skip_basics = 'image,location' | split: ',' %}
+  {% assign skip_basics = 'image,profiles,location' | split: ',' %}
   {% for content in data[1] %}
     {%
       if (content[1] == "") or (skip_basics contains
@@ -20,10 +20,6 @@
           <a href="mailto:{{ email }}" target="_blank">{{ content[1] }}</a>
         {% elsif content[0] == 'phone' %}
           <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
-        {% elsif content[0] == 'profiles' %}
-          {% for profile in content[1] %}
-            <a href="{{ profile[2] }}">profile[0]</a><br>
-          {% endfor %}
         {% else %}
           {{ content[1] }}
         {% endif %}
