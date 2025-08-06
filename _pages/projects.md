@@ -6,7 +6,7 @@ description: Please note that all potentially sensitive or proprietary informati
 nav: true
 nav_order: 4
 display_categories: [software development, horticulture]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
