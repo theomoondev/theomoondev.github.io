@@ -5,5 +5,5 @@ description: Sample of a REST API reference originally written as an OpenAPI YAM
 img: assets/img/traveladvisoryapi.png
 redirect: https://theomoondev.github.io/assets/html/traveladvisory-api.html
 importance: 1
-category: software
+category: software development
 ---

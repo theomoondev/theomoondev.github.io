@@ -5,5 +5,5 @@ description: Sample of developer-facing documents providing an overview of objec
 img: assets/img/instancecreation.png
 redirect: https://drive.google.com/drive/folders/1HLLHM5auP5W6OrEM9-FpuKrZ3CUuVgkB?usp=drive_link
 importance: 3
-category: software
+category: software development
 ---
