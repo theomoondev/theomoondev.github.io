@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-taskpie-github-readme",
           title: 'TaskPie GitHub README',
-          description: "A GitHub README featuring a recorded demo, user stories, installation guide, dependencies, and Trello board for a time management and task planning app for Android and iOS",
+          description: "A GitHub README for a time management and task planning app developed for Android and iOS, featuring a recorded demo, user stories, installation guide, dependencies list, and Trello board",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-i-kill-plants-but-i-want-to-grow-a-vegetable-garden",
