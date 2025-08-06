@@ -35,11 +35,6 @@ ninja.data = [{
           description: "Sample of a REST API reference originally written as an OpenAPI YAML specification. Here, it is presented in an interactive HTML view using Redocly, with an option to download the specification as JSON",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-legacy-api-migration-strategy",
-          title: 'Legacy API Migration Strategy',
-          description: "Sample of a developer-facing document proposing a technical strategy for migrating a collection of API endpoints from a generalized legacy service to a microservice architecture",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-instance-creation-overview-amp-runbooks",
           title: 'Instance Creation Overview &amp;amp; Runbooks',
           description: "Sample of developer-facing documents providing an overview of object instance creation within a generalized microservice architecture, including two service runbooks describing E2E testing and manual creation procedures",
