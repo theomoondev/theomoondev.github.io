@@ -114,7 +114,7 @@
       "name": "Backend Technologies",
       "level": "Proficient",
       "icon": "fa-solid fa-server",
-      "keywords": ["Rails", "REST", "PostgreSQL", "Snowflake", "Kafka"]
+      "keywords": ["Rails", "REST", "PostgreSQL"]
     },
     {
       "name": "Frontend Technologies",
@@ -171,10 +171,16 @@
       "keywords": ["Linux (Debian)", "macOS", "Windows"]
     },
     {
-      "name": "Language and Editing",
+      "name": "UX Design",
+      "level": "Familiar",
+      "icon": "fa-solid fa-map-o",
+      "keywords": ["Information Architecture", "Wireframing & Prototyping", "User Research"]
+    },
+    {
+      "name": "Language & Editing",
       "level": "Proficient",
       "icon": "fa-solid fa-book",
-      "keywords": ["Editing", "Proofreading", "Technical Writing", "CHN-ENG Translation", "ESL Support", "Content Improvement"]
+      "keywords": ["Technical Documentation", "CHN-ENG Translation", "ESL Support"]
     }
   ],
   "languages": [
