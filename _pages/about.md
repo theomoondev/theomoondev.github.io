@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My journey as a software engineer began at age 12 when I created a website dedicated to my favorite Pokémon, Mew! Teaching myself HTML, CSS, and JavaScript ignited a love of coding, leading to various personal projects, freelance gigs, and volunteer roles in web development.
+My journey as a software engineer began at age 12 when I created a website dedicated to my favorite Pokémon, Mew! Teaching myself HTML, CSS, and JavaScript ignited a love of coding, leading to various personal projects, freelance work, and volunteer roles in web development.
 
 Over the past two decades, my career has been enriched by experiences in:
 
@@ -37,7 +37,7 @@ Over the past two decades, my career has been enriched by experiences in:
 - _Creative expression and performance_
 - _Hospitality_
 
-After formalizing my technical skills at [Ada Developers Academy](https://adadevelopersacademy.org) from 2020-2021, I began designing, implementing, testing, and documenting high-traffic features in monolith decomposition, distributed systems architecture, scalable workflow automation, and API development, working with technologies like:
+After formalizing my technical skills at [Ada Developers Academy](https://adadevelopersacademy.org), I have designed, implemented, tested, and documented high-traffic features in monolith decomposition, distributed systems architecture, scalable workflow automation, and API development, working with technologies like:
 
 - _Golang_
 - _Ruby on Rails_
