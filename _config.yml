@@ -10,7 +10,7 @@ pronouns: (he/they)
 contact_note: > # the ">" symbol means to ignore newlines until "footer_text:"
   Email is the best way to reach me, and I typically respond within 24-48 hours.
 description: >
-  Full-Stack Software Engineer with 5+ years of experience in platform engineering and API development, and 9+ years of experience in technical writing for professionals and laypeople alike. Always learning and growing, I thrive in projects that blend diverse disciplines to solve real-world problems, particularly those at the intersection of art+tech, storytelling, data equity, AI governance, and/or community care.
+  Full-Stack Software Engineer with 5+ years of experience in distributed systems and cloud computing, and 9+ years of experience in writing and developmental editing for technical and non-technical audiences. Always learning and growing, I thrive in projects that blend diverse disciplines to solve real-world problems, particularly those at the intersection of technology, art, storytelling, data equity, AI governance, economic justice, and community care.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Theo Moon ✦ Full-Stack Software Engineer & Technical Writer # blog_name will be displayed in your blog page
-blog_description: Full-Stack Software Engineer with 5+ years of experience in platform engineering and API development, and 9+ years of experience in technical writing for professionals and laypeople alike. Always learning and growing, I thrive in projects that blend diverse disciplines to solve real-world problems, particularly those at the intersection of art+tech, storytelling, data equity, AI governance, and/or community care.
+blog_description: Full-Stack Software Engineer with 5+ years of experience in distributed systems and cloud computing, and 9+ years of experience in writing and developmental editing for technical and non-technical audiences. Always learning and growing, I thrive in projects that blend diverse disciplines to solve real-world problems, particularly those at the intersection of technology, art, storytelling, data equity, AI governance, economic justice, and community care.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
