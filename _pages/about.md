@@ -47,6 +47,6 @@ After formalizing my technical skills at [Ada Developers Academy](https://adadev
 - _Docker / Kubernetes_
 - _AWS_
 
-I thrive in projects that blend diverse disciplines to solve real-world problems, particularly those at the intersection of **technology, art, storytelling, data equity, AI governance, economic justice, and community care**.
+I thrive in projects that blend diverse disciplines to solve real-world problems, particularly those at the intersection of **art, storytelling, technology, data equity, AI governance, and economic justice**.
 
 Got an idea for a potential collaboration? Let's connect!
